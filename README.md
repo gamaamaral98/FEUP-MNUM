@@ -1,2 +1,2 @@
 # MNUM-
-Some exercises of numerical methods approached in the Curricular Unit "Métodos Numéricos".
+Exercises solutions and Numerical Methods Implementations in Maxima and C++ from the MNUM curricular unit.
